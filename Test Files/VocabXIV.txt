@@ -1,0 +1,22 @@
+New
+Atarashii
+Old
+Furui
+Cool
+Suzushii
+Warm
+Atatakai
+Hot
+Atsui
+Cold
+Samui
+Delicious
+Oishii
+Bad Tasting
+Mazui
+Small
+Chiisai
+Late, Slow
+Osoi
+Early, Quick
+Hayai

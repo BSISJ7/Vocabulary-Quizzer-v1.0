@@ -1,0 +1,16 @@
+Hai
+Yes
+Lie
+No
+Arigato
+Thank You
+Douzo
+Please
+Watashi
+I|(Formal-Male\\Informal-Femal)
+Boku
+I|(Normal-Male)
+Kare
+He
+Kanojo
+She

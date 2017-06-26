@@ -1,0 +1,16 @@
+How ("how about X?")
+Ikaga
+How much| [cost]
+Ikura
+How many| (also age)
+ikutsu
+How long will something take
+donogurai
+When| (time in general)
+itsu
+What time| (specific hour)
+Nanji
+What day| (of the week)
+Nan-youbi
+What day| (of the month), or what date
+Nan-nichi

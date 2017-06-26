@@ -1,0 +1,20 @@
+Yuubinkyoku
+Post Office
+Hakubutsu Kan
+Museum
+Ginkou
+Bank
+Keisatsuno
+Police Station
+Byouin
+Hospital
+Yakkyoku
+Pharmacy,Drugstore
+Mise
+Store,Shop
+Shokudou
+Restarurant
+Gakkou
+School
+Kyoukai
+Church

@@ -1,0 +1,8 @@
+higashi
+east
+nishi
+west
+minami
+south
+kita
+north
